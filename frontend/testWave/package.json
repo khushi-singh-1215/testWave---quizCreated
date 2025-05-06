@@ -1,0 +1,21 @@
+{
+  "name": "testwave",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "react-bootstrap": "^2.10.9",
+    "react-router-dom": "^7.1.5"
+  }
+}
